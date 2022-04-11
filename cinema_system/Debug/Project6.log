@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  system cinema.cpp
+F:\C++_projects\Project6\Project6\system cinema.cpp(334,13): warning C4129: ' ': unrecognized character escape sequence
+F:\C++_projects\Project6\Project6\system cinema.cpp(390,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\C++_projects\Project6\Project6\system cinema.cpp(422,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++_projects\Project6\Project6\system cinema.cpp(431,13): warning C4129: ' ': unrecognized character escape sequence
+F:\C++_projects\Project6\Project6\system cinema.cpp(486,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\C++_projects\Project6\Project6\system cinema.cpp(518,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++_projects\Project6\Project6\system cinema.cpp(523,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++_projects\Project6\Project6\system cinema.cpp(626,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(644,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(662,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(683,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(701,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(737,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(757,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(797,19): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(818,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(838,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(858,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(897,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(914,20): warning C4305: '=': truncation from 'double' to 'float'
+F:\C++_projects\Project6\Project6\system cinema.cpp(577): warning C4715: 'check_theatre_capicty': not all control paths return a value
+  Project6.vcxproj -> F:\C++_projects\Project6\Debug\system cinema.exe
