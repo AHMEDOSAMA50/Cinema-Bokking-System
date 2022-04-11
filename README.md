@@ -1,4 +1,4 @@
-# Cinema-Bokking-System
+# Cinema-Booking-System
 booking cinema tickets (console application)
 
 
