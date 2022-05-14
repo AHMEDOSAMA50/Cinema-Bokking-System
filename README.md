@@ -1,7 +1,7 @@
 # Cinema-Booking-System
 booking cinema tickets (console application)
 
-
+-You can run and download  the .exe file in Debug/project6.exe .
 
 1) <strong> booking tickets  </strong> 
 
